@@ -1,4 +1,4 @@
-# TIDE-shipping-network-anomaly
+# NetWalkPro: A Deep Embedding framework for Dynamic Shipping Network Anomaly Detection
 
 本项目面向**航运（船舶 AIS）网络**，提供一套**时序图异常检测**的研究型实现。整体流程为：
 
@@ -11,9 +11,6 @@
 ---
 
 ## ⚠️ 数据使用须知（重要）
-
-**请勿将生成的数据或中间结果上传到 GitHub。**
-
 仓库未跟踪任何数据文件，包括但不限于：
 - `*.csv`
 - `*.txt`
